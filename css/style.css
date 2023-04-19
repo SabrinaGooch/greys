@@ -1,0 +1,51 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    color: rgb(21, 40, 205)
+}
+h1{
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(6, 64, 254);
+}
+h2{
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(32, 123, 249)
+}
+h3{
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(0, 166, 255);
+}
+h4{
+    font-size: small;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(18, 6, 183)
+}
+.left {
+    top: 114px;
+    right: 9px;
+    width: 100%;
+    bottom: 39px;
+}
+.right{
+    top: 114px;
+    left: 9px;
+    width: 100%;
+    bottom: 39px;
+}
+.top{
+    top:5px
+    bottom: 50px
+}
+.middle{
+    top:50px
+    bottom:400px
+}
+.box{
+    border-width: 5px;
+    border-style: groove;
+    color: rgb(4, 4, 121);
+}
+  
